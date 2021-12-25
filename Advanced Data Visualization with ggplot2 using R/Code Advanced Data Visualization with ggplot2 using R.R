@@ -403,7 +403,7 @@ faskes_kalimantan_plot <-
   labs(
     fill = NULL,
     title = "Fasilitas Kesehatan di Kalimantan",
-    subtitle = "Berdasarkan data tahun 2011, satu petak menyatakan ±10 faskes",
+    subtitle = "Berdasarkan data tahun 2011, satu petak menyatakan Â±10 faskes",
     caption = "Data: INDO-DAPOER, The World Bank"
   )
 faskes_kalimantan_plot
@@ -436,7 +436,7 @@ faskes_kalimantan_plot <-
   labs(
     fill = NULL,
     title = "Fasilitas Kesehatan di Kalimantan",
-    subtitle = "Berdasarkan data tahun 2011, satu petak menyatakan ±10 faskes",
+    subtitle = "Berdasarkan data tahun 2011, satu petak menyatakan Â±10 faskes",
     caption = "Data: INDO-DAPOER, The World Bank"
   )
 
